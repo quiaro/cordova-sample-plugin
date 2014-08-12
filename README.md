@@ -8,7 +8,6 @@ This sample plugin is derived work from the [Steroids Echo Plugin](https://githu
 * Sencha Cmd v5.0.0.160
 * Sencha Touch v2.3.1.410
 * Cordova v3.5.0-0.2.6
-
 * XCode v5.1.1
 
 The plugin does *not* currently work for Android
@@ -27,7 +26,7 @@ The plugin sends a text string back from the native layer. To use it:
 var myPlugin = cordova.require("com.quiaro.plugin.Echo.Echo");
 
 // Call the plugin's echo method
-myPlugin.echo("Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!", function(message) {
+myPlugin.echo("Being crazy isn't enough.", function(message) {
     alert("Dr.Seuss says: " + message);
 });
 ```
