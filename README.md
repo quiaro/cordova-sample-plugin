@@ -9,8 +9,9 @@ This sample plugin is derived work from the [Steroids Echo Plugin](https://githu
 * Sencha Touch v2.3.1.410
 * Cordova v3.5.0-0.2.6
 * XCode v5.1.1
+* Android API v19
 
-The plugin does *not* currently work for Android
+The plugin compiles, but does *not* currently work for Android
 
 ##Usage
 
