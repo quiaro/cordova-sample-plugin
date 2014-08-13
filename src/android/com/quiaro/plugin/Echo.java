@@ -1,4 +1,4 @@
-package com.appgyver.plugin;
+package com.quiaro.plugin;
 
 import org.apache.cordova.api.CordovaPlugin;
 import org.apache.cordova.api.CallbackContext;
